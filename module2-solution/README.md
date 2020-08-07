@@ -2,7 +2,7 @@
 
 
 ### Responsive web page containing the restaurant menu.
-### 
+### https://elizaveta-1207.github.io/coursera-project1/module2-solution/index.html
 
 
 **Consists of:**
