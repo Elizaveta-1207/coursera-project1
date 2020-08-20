@@ -16,6 +16,15 @@
   /* border-bottom: none; */
 }
 
+.navbar-default .navbar-brand {
+  color: #000;
+  cursor: default;
+}
+
+.navbar-brand:hover {
+  color: #000;
+}
+
 .nav__title {
   font-size: 2.3em;
 }
