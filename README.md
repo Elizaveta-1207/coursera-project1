@@ -7,7 +7,9 @@
 - module2-solution;
 - module3-solution;
 - module3-solution (extra);
+- module4-solution;
+- module5-solution.
 
 ---
 
-This file will be updated as the tasks are completed.
+The course is complited.
